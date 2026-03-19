@@ -4,7 +4,7 @@ Network anomaly detection system modelled on thymic negative selection and clona
 # AIS Intrusion Detector
 
 Anomaly detection system inspired by T-cell development in the 
-thymus. Normal network behaviour is defined as "self" — random 
+thymus. Normal network behaviour is defined as "self" - random 
 detectors that match self are deleted (negative selection), and 
 surviving detectors monitor live traffic for deviations. Clonal 
 expansion strengthens detectors that catch confirmed attacks.
@@ -16,7 +16,7 @@ expansion strengthens detectors that catch confirmed attacks.
 - Danger signals    → (planned)
 
 ## Dataset
-NSL-KDD (cleaned KDD Cup 1999) — 125,000 labelled 
+NSL-KDD (cleaned KDD Cup 1999) - 125,000 labelled 
 network connections across 52 features.
 
 ## Usage
