@@ -10,21 +10,17 @@ surviving detectors monitor live traffic for deviations. Clonal
 expansion strengthens detectors that catch confirmed attacks.
 
 ## Biological basis
-- Negative selection → thymic censoring
-- Match radius      → TCR affinity threshold  
-- Clonal expansion  → affinity maturation
-- Danger signals    → (planned)
+TBD
 
 ## Dataset
 NSL-KDD (cleaned KDD Cup 1999) - 125,000 labelled 
 network connections across 52 features.
 
 ## Usage
-pip install numpy pandas scikit-learn matplotlib
-python ais_detector.py
+TBD
 
 ## Results
-N/A
+TBD
 
 ## Background
 Built as an exploration of Artificial Immune Systems (AIS) 
